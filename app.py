@@ -1,5 +1,8 @@
 def sum(a,b):
     return a+b
 
-def sun(x,y):
-    return x,y    
+def sub(x,y):
+    return x-y
+
+def multi(p,o):
+    return p*o        
